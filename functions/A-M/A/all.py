@@ -1,0 +1,1 @@
+# all.py - (iterable, /) function examples
